@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1492477415 source:c:\users\simon\desktop\programming\c++\lab6\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<algorithm>
+	<sstream>
+
